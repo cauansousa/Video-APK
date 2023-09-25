@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791745842393",
+    "project_id": "robotec-3f9dd",
+    "storage_bucket": "robotec-3f9dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791745842393:android:c261110ce8318bda7482c8",
+        "android_client_info": {
+          "package_name": "com.example.videoreciver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKeTA4mfC7blHrR17JejPhPiWLx6uw_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791745842393:android:b77e46c7cf86a1cd7482c8",
+        "android_client_info": {
+          "package_name": "com.robotec.apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKeTA4mfC7blHrR17JejPhPiWLx6uw_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
